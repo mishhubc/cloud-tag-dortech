@@ -50,8 +50,8 @@ function init() {
 			rotate: true,
 			stepAngle: 20,
 			stepRadius: 80,
-			maxFontSize: 80,
-			minFontSize: 10,
+			maxFontSize: '80px',
+			minFontSize: '8px',
 		},
 	};
 
@@ -65,8 +65,8 @@ function init() {
 			rotate: true,
 			stepAngle: 15,
 			stepRadius: 15,
-			maxFontSize: 80,
-			minFontSize: 10,
+			maxFontSize: '80px',
+			minFontSize: '8px',
 		},
 	};
 
@@ -80,8 +80,8 @@ function init() {
 			rotate: true,
 			stepAngle: 15,
 			stepRadius: 15,
-			maxFontSize: 80,
-			minFontSize: 10,
+			maxFontSize: '80px',
+			minFontSize: '8px',
 		},
 	};
 
